@@ -1,4 +1,4 @@
-\# 🤖 VocoBot - Voice Controlled Robot
+\# VocoBot - Voice Controlled Robot
 
 
 
@@ -40,7 +40,7 @@ Voice commands from a mobile application are transmitted via the HC-05 Bluetooth
 
 | Command | Action |
 
-|--------|--------|
+|---------|--------|
 
 | F | Move Forward |
 
@@ -72,13 +72,13 @@ Voice commands from a mobile application are transmitted via the HC-05 Bluetooth
 
 
 
-\- Integration with AI-based voice recognition  
+\- AI-based voice recognition  
 
-\- Mobile app development for better UI  
+\- Mobile app UI  
 
-\- Camera-based navigation  
+\- Camera integration  
 
-\- IoT-based remote monitoring  
+\- IoT connectivity  
 
 
 
@@ -87,8 +87,4 @@ Voice commands from a mobile application are transmitted via the HC-05 Bluetooth
 
 
 Eashanvi
-
-
-
-\---
 
