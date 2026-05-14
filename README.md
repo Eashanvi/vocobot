@@ -1,8 +1,8 @@
-\# VocoBot – Voice Controlled Robot
+# VocoBot – Voice Controlled Robot
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,23 +10,23 @@ VocoBot is a voice-controlled robotic system built using Arduino Uno and Bluetoo
 
 
 
-\## Components
+## Components
 
 
 
-\- Arduino Uno  
+- Arduino Uno  
 
-\- HC-05 Bluetooth Module  
+- HC-05 Bluetooth Module  
 
-\- Motor Driver  
+- Motor Driver  
 
-\- Ultrasonic Sensor  
+- Ultrasonic Sensor  
 
-\- Servo Motor  
+- Servo Motor  
 
 
 
-\## Working Principle
+## Working Principle
 
 
 
@@ -34,51 +34,51 @@ Voice commands from a mobile application are transmitted via the HC-05 Bluetooth
 
 
 
-\## Commands
+## Commands
 
 
 
-\- F → Move Forward  
+- F → Move Forward  
 
-\- B → Move Backward  
+- B → Move Backward  
 
-\- L → Turn Left  
+- L → Turn Left  
 
-\- R → Turn Right  
+- R → Turn Right  
 
-\- S → Stop  
-
-
-
-\## How to Run
+- S → Stop  
 
 
 
-1\. Upload the code to Arduino Uno using Arduino IDE  
-
-2\. Connect the HC-05 Bluetooth module  
-
-3\. Pair your mobile device with HC-05  
-
-4\. Use a voice control app to send commands  
+## How to Run
 
 
 
-\## Future Improvements
+1. Upload the code to Arduino Uno using Arduino IDE  
+
+2. Connect the HC-05 Bluetooth module  
+
+3. Pair your mobile device with HC-05  
+
+4. Use a voice control app to send commands  
 
 
 
-\- AI-based voice recognition  
-
-\- Mobile app interface  
-
-\- Camera-based navigation  
-
-\- IoT integration  
+## Future Improvements
 
 
 
-\## Author
+- AI-based voice recognition  
+
+- Mobile app interface  
+
+- Camera-based navigation  
+
+- IoT integration  
+
+
+
+## Author
 
 
 
